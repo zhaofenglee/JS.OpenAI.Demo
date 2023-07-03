@@ -1,13 +1,13 @@
 # OpenAI模块演示项目
 目前支持的功能，如果希望本地部署，请自行编译当前项目后部署即可运行
 * ChatGpt
-![img3.png](images\img3.png)
+![img3.png](images/img3.png)
 * 在线翻译
-![img1.png](images\img1.png)
+![img1.png](images/img1.png)
 * 图片生成
-![img2.png](images\img2.png)
+![img2.png](images/img2.png)
 * 支持修改ApiKey和Proxy
-![img.png](images\img.png)
+![img.png](images/img.png)
 
 ## 准备工作
 
