@@ -1,4 +1,13 @@
-# ChatGPT模块演示项目
+# OpenAI模块演示项目
+目前支持的功能，如果希望本地部署，请自行编译当前项目后部署即可运行
+* ChatGpt
+![img3.png](images\img3.png)
+* 在线翻译
+![img1.png](images\img1.png)
+* 图片生成
+![img2.png](images\img2.png)
+* 支持修改ApiKey和Proxy
+![img.png](images\img.png)
 
 ## 准备工作
 
@@ -38,14 +47,13 @@
 > dotnet ef database update
 ````
 
-### 5. 配置appsettings.json，添加你的ApiKey
-  "OpenAIServiceOptions": {
-    "ApiKey": "your key" //How can I get an app key? visit here: https://openai.com/
-  }
+### 5. 配置你的ApiKey
+ApiKey已经支持使用Settings配置，首次使用请配置Key和Proxy
 
 
 ## 注意事项
 * 有部分地区无法访问api.openai.com:443，这一问题请自行解决
+* 不登录也可以使用，但是不会保留历史记录
 * 当前模块已经在仓储进行过滤，只能查看当前用户历史记录
 
 ### 感谢

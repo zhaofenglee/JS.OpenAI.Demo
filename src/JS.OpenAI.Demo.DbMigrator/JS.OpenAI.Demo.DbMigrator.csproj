@@ -30,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Volo.Abp.Autofac" Version="7.2.2" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="7.2.3" />
     <ProjectReference Include="..\JS.OpenAI.Demo.Application.Contracts\JS.OpenAI.Demo.Application.Contracts.csproj" />
     <ProjectReference Include="..\JS.OpenAI.Demo.EntityFrameworkCore\JS.OpenAI.Demo.EntityFrameworkCore.csproj" />
   </ItemGroup>

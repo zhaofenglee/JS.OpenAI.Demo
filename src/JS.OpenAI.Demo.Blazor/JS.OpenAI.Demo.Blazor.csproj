@@ -21,22 +21,22 @@
   </ItemGroup>
 
   <ItemGroup>
-	<PackageReference Include="Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic" Version="7.2.2" />
-	<PackageReference Include="Volo.Abp.AspNetCore.Components.Server.BasicTheme" Version="7.2.2" />
+	<PackageReference Include="Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic" Version="7.2.3" />
+	<PackageReference Include="Volo.Abp.AspNetCore.Components.Server.BasicTheme" Version="7.2.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\JS.OpenAI.Demo.Application\JS.OpenAI.Demo.Application.csproj" />
     <ProjectReference Include="..\JS.OpenAI.Demo.HttpApi\JS.OpenAI.Demo.HttpApi.csproj" />
     <ProjectReference Include="..\JS.OpenAI.Demo.EntityFrameworkCore\JS.OpenAI.Demo.EntityFrameworkCore.csproj" />
-    <PackageReference Include="JS.Abp.OpenAI.Blazor.Server" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.Autofac" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.Swashbuckle" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.AspNetCore.Serilog" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.Account.Web.OpenIddict" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.Identity.Blazor.Server" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.TenantManagement.Blazor.Server" Version="7.2.2" />
-    <PackageReference Include="Volo.Abp.SettingManagement.Blazor.Server" Version="7.2.2" />
+    <PackageReference Include="JS.Abp.OpenAI.Blazor.Server" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.Swashbuckle" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Serilog" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.Account.Web.OpenIddict" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.Identity.Blazor.Server" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Blazor.Server" Version="7.2.3" />
+    <PackageReference Include="Volo.Abp.SettingManagement.Blazor.Server" Version="7.2.3" />
   </ItemGroup>
 
   <ItemGroup>
