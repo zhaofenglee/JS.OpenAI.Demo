@@ -1,5 +1,10 @@
 # OpenAI模块演示项目
 目前支持的功能，如果希望本地部署，请自行编译当前项目后部署即可运行
+## 7.3.0更新说明
+* ChatGpt模型支持在设置中修改
+![img4.png](images/img4.png)
+
+## 主要功能
 * ChatGpt
 ![img3.png](images/img3.png)
 * 在线翻译
@@ -8,6 +13,8 @@
 ![img2.png](images/img2.png)
 * 支持修改ApiKey和Proxy
 ![img.png](images/img.png)
+
+demo项目登录账号为admin，密码1q2w3E*
 
 ## 准备工作
 
