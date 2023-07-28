@@ -13,13 +13,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="JS.Abp.OpenAI.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.Account.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.Identity.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.PermissionManagement.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.TenantManagement.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.FeatureManagement.HttpApi.Client" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.SettingManagement.HttpApi.Client" Version="7.3.0" />
+    <PackageReference Include="JS.Abp.OpenAI.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.Account.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.Identity.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.PermissionManagement.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.FeatureManagement.HttpApi.Client" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.SettingManagement.HttpApi.Client" Version="7.3.1" />
   </ItemGroup>
 
   <ItemGroup>

@@ -11,7 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\JS.OpenAI.Demo.EntityFrameworkCore\JS.OpenAI.Demo.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\JS.OpenAI.Demo.TestBase\JS.OpenAI.Demo.TestBase.csproj" />
-    <PackageReference Include="Volo.Abp.EntityFrameworkCore.Sqlite" Version="7.3.0" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.Sqlite" Version="7.3.1" />
   </ItemGroup>
 
   <ItemGroup>

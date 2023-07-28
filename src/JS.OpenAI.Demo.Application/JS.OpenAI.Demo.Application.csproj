@@ -14,13 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="JS.Abp.OpenAI.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.Account.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.Identity.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.PermissionManagement.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.FeatureManagement.Application" Version="7.3.0" />
-    <PackageReference Include="Volo.Abp.SettingManagement.Application" Version="7.3.0" />
+    <PackageReference Include="JS.Abp.OpenAI.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.Account.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.PermissionManagement.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.FeatureManagement.Application" Version="7.3.1" />
+    <PackageReference Include="Volo.Abp.SettingManagement.Application" Version="7.3.1" />
   </ItemGroup>
 
 </Project>
