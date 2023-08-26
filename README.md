@@ -1,5 +1,12 @@
 # OpenAI模块演示项目
 目前支持的功能，如果希望本地部署，请自行编译当前项目后部署即可运行
+## Docker部署
+拉取镜像
+docker pull registry.cn-shenzhen.aliyuncs.com/zhaofenglee/jsopenaidemoblazor:latest
+运行镜像
+docker run -d -p 8888:80 --name jsopenaidemoblazor registry.cn-shenzhen.aliyuncs.com/zhaofenglee/jsopenaidemoblazor:latest
+
+
 ## 7.3.2更新说明
 * 重构ChatGPT页面，适应移动端
 ## 7.3.1更新说明
