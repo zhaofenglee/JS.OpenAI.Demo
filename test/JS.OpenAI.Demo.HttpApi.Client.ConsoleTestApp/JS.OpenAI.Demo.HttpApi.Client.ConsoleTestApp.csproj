@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Volo.Abp.Http.Client.IdentityModel" Version="7.3.2" />
-    <PackageReference Include="Volo.Abp.Autofac" Version="7.3.2" />
+    <PackageReference Include="Volo.Abp.Http.Client.IdentityModel" Version="7.4.0" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="7.4.0" />
     <ProjectReference Include="..\..\src\JS.OpenAI.Demo.HttpApi.Client\JS.OpenAI.Demo.HttpApi.Client.csproj" />
   </ItemGroup>
 
